@@ -199,6 +199,8 @@ def print_matrix(mat, title=None):
     for row in mat: print(' '.join(row))
     print()
 
+#QRcode test
+
 # --- Anchored split-by-pseudo reporting -------------------------------------
 def _split_sequence_by_pseudo_anchored(sorted_vals, decide_fn):
     """
